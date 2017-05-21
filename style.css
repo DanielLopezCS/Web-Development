@@ -1,0 +1,48 @@
+.nav-pills{
+  font-family:Anton;
+  font-size:2.7em;
+  background-color:green;
+}
+body{
+  
+  background-color:white;
+}
+
+.pageOne{
+  background:url("https://static1.squarespace.com/static/5511b2cee4b09be45a553df0/t/5514824fe4b01178dd79d866/1427407469387/Pomona_Campus.jpg?format=1500w");
+  background-size:cover;
+  height:580px;
+  padding-bottom:35%;
+  
+}
+.pageTwo{
+ 
+  background-color:white;
+  background-size:cover;
+  height:2000px;
+}
+.pageThree{
+  background:url("https://image.ibb.co/mPwpkv/contactme.jpg");
+  background-size:cover;
+  height:500px;
+}
+
+.btn-default{
+  background-color:black;
+  border-color:black;
+}
+.block{
+  background-color:lightgreen;
+  opacity:.8;
+}
+.borderAndPadd{
+  
+  border-style:solid;
+  border-color:black;
+  border-width: 10px;
+  border-height: 10px;
+  
+}
+.padTop{
+  padding-top:15%;
+}
